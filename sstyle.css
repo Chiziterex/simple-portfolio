@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+h2 {
+  text-transform: capitalize;
+  border-right: 1px solid #333;
+  border-bottom: 1px solid #333;
+  padding: 0.2rem 0.75rem;
+}
+
+#about div {
+  text-align: left;
+}
+
+
+
+
+
+#contact {
+  background-color: #333;
+  color: #cdcdcd;
+}
+
+#contact h2 {
+  padding: 0.2rem 0.7rem;
+}
+
+
+
+form div {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+}
+
+form div label {
+  padding: 0.5rem 0.3rem;
+  background-color: #333;
+  color: #cdcdcd;
+}
+
+form div input {
+  border: none;
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 100%;
+  margin-left: 1.5rem;
+}
+
+form div textarea {
+  border: none;
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 100%;
+}
+
+
+
+
