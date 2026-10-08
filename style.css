@@ -205,6 +205,9 @@ footer p {
   header nav {
     gap: 1rem;
   }
+  .home img {
+    width: 120px;
+}
   .home .text {
     margin: 0 1rem;
   }
@@ -226,4 +229,7 @@ form textarea {
   button {
     margin-top: 1rem;
   }
+  footer p {
+  font-size: 0.75rem;
+}
 }
